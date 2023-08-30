@@ -10,4 +10,5 @@ Tenho interesses nas seguintes áreas:
 - Meta-Heurística para Otimização Combinatória
 - Desenvolvimento de Jogos Digitais
 
-Contato: <a href="mailto:antonino_feitosa@yahoo.com.br">antonino_feitosa@yahoo.com.br</a>
+Contato: <a href="mailto:antonino_feitosa@yahoo.com.br">antonino_feitosa@yahoo.com.br</a></br>
+Replit: <a href="https://replit.com/@AntoninoFeitosa">@AntoninoFeitosa</a>
